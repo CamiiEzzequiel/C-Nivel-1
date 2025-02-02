@@ -6,7 +6,7 @@ namespace Hola_Pibe
     {
         static void Main(string[] args)
         {
-            /*Hola Mundo*/
+            // Hola Mundo
             Console.WriteLine("HOLA PIBE!!");
             Console.ReadKey();
         }
